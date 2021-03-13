@@ -1,0 +1,12 @@
+{
+  "name": "marvel-api",
+  "version": "1.0.0",
+  "description": "Consumindo uma API Rest da Marvel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jardel Lima",
+  "license": "ISC",
+  "dependencies": {}
+}
